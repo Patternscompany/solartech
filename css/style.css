@@ -12,7 +12,10 @@
 .fw-bold {
     font-weight: 700 !important;
 }
-
+.logo{
+    width:60px;
+    height:auto;
+}
 .fw-black {
     font-weight: 900 !important;
 }
